@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.eclipse.osgi.services">
+    <module_version install_time="1463661709187" last="true" origin="installer" specification_version="3.4.0.v20140312-2051">
+        <file crc="2732306293" name="config/Modules/org-eclipse-osgi-services.xml"/>
+        <file crc="3501455955" name="modules/org-eclipse-osgi-services.jar"/>
+    </module_version>
+</module>

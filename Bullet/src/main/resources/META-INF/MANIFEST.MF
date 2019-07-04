@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Bullet
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.bullet
+Bundle-Version: 1.0.0.qualifier
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: dk.sdu.mmmi.cbse.services,org.osgi.framework;version = "1.3.0",dk.sdu.mmmi.cbse.data; version="0.0.0"
+Service-Component: META-INF/component.xml

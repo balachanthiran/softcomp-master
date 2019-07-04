@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.FlyingSaucer">
+    <module_version install_time="1463661719552" last="true" origin="installer" specification_version="1.0">
+        <file crc="475758744" name="config/Modules/dk-sdu-mmmi-cbse-FlyingSaucer.xml"/>
+        <file crc="3007335142" name="modules/dk-sdu-mmmi-cbse-FlyingSaucer.jar"/>
+        <file crc="1015876392" name="modules/ext/dk.sdu.mmmi.cbse.FlyingSaucer/com-badlogicgames-gdx/gdx.jar"/>
+    </module_version>
+</module>

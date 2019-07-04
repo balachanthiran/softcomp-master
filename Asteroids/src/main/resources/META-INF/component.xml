@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="dk.sdu.mmmi.cbse.asteroids">
+   <implementation class="dk.sdu.mmmi.cbse.asteroids.AsteroidsControlSystem"/>
+   <implementation class="dk.sdu.mmmi.cbse.asteroids.AsteroidsEntityPlugin"/>
+   <service>
+      <provide interface="dk.sdu.mmmi.cbse.common.services.IEntityProcessingService"/>
+      <provide interface="dk.sdu.mmmi.cbse.common.services.IGamePluginService"/>
+   </service>
+</scr:component>
